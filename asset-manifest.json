@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/satvik_deployment_app/static/css/main.59acf9d0.css",
+    "main.js": "/satvik_deployment_app/static/js/main.c8fe768e.js",
+    "index.html": "/satvik_deployment_app/index.html",
+    "main.59acf9d0.css.map": "/satvik_deployment_app/static/css/main.59acf9d0.css.map",
+    "main.c8fe768e.js.map": "/satvik_deployment_app/static/js/main.c8fe768e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59acf9d0.css",
+    "static/js/main.c8fe768e.js"
+  ]
+}
